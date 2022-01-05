@@ -2,6 +2,7 @@
 A simple macro to automatically insert a MLA header.
 ## Instructions
 *(Sorry it's a bit dumbed down, made sense to do so at the time. The biggest thing is just to run `mlaDispConf` after importing before running `mlaFormatDoc`)*
+
 For if you have no clue how to import and use this.
 ### -- Importing --
 Follow these steps to import the MLA macros
