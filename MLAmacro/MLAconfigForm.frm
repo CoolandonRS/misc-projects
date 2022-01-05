@@ -14,7 +14,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 'Module by CoolandonRS on GitHub
-'https://github.com/CoolandonRS/word-mla-macro
+'https://github.com/CoolandonRS/random-projects
 
 Private Sub NameToggle_UpdateCaption()
     If Me.NameToggle.Value Then t = "Use Document Name" Else t = "Do Not Use Document Name"
