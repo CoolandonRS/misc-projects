@@ -1,5 +1,5 @@
 Set-PSDebug -Trace 0
-# If using Essentials you will need to set it to run a batch file that will run this powershell until they start recognizing powershell files.
+# If using Essentials you will need to use run the batch file instead of the ps1 (https://github.com/CoolandonRS/misc-projects)
 ######################################## BEGIN CONFIG ########################################
 # Any config value with a default value of $null needs to be set manually, and should not be kept as null.
 $compress = "none" # "none" | "Optimal" | "Fastest" || How the file is zipped. Make sure you get the capitals right! || DEFAULT: "none"

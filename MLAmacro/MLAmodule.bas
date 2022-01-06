@@ -1,6 +1,6 @@
 Attribute VB_Name = "MLAmodule"
 'Module by CoolandonRS on GitHub
-'https://github.com/CoolandonRS/random-projects
+'https://github.com/CoolandonRS/misc-projects
 
 Sub mlaDispConf()
     MLAconfigForm.Show

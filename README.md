@@ -1,4 +1,4 @@
-# random-projects
+# misc-projects
 A repo I made for all my random smaller projects that some people might find useful.
 
 All the projects will probably get their own readme in their folder so its not too cluttered here.
@@ -8,3 +8,5 @@ All the projects will probably get their own readme in their folder so its not t
 **MLAmacro:** A simple macro used to format a word document with a MLA header.
 
 **backup.ps1:** A powershell script meant to be run on minecraft servers using plugins to do automated backups.
+
+**ps1-oneline:** A powershell script made to compact other powershell scripts into one line for no particular reason.
